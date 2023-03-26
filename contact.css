@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(images/back3.jpeg);
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color:aliceblue;
+    width: 40%;
+    height: 60%;
+    position: absolute;
+    right: 35%;
+    top: 10%;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-style:inherit ;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+#message{
+    width: 100%;
+    height: 200%;
+    padding: 70px;
+}
+.name{
+    margin: 5px;
+}
+.mail{
+    margin: 5px;
+}
+.message{
+    margin: 5px;
+}
+label{
+    margin-left: 10px;
+    
+}
+button{
+    width: 95%;
+    height: 50%;
+    background-color: aquamarine;
+}
+button :hover{
+    background-color: red;
+    color: blue;
+}
+

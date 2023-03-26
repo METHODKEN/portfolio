@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0%;
+}
+
+.header{
+  background-color: aliceblue;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-bottom: 10px;
+  color: black;
+}
+span{
+  color: red;
+}
+#logo{
+  margin: 10px;
+}
+nav{
+  text-align: right;
+  margin-right: 40px;
+  padding-bottom: 20px;
+}
+.menu{
+  padding: 10px;
+  font-size: larger;
+  color:aliceblue;
+  border-style: groove;
+  border-width:0px;
+  background-color: rgba(8, 8, 44, 0.653);
+  margin: 0px;
+}
+a{
+  padding: 1px;
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  background-color: rgba(0, 0, 0, 0.478);
+  color: red;
+}
+.main{
+  background-image: url(images/background1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-decoration: none;
+  width: 100%;
+  height: 100vh;
+  color: white;
+}
+#name, #pro{
+  position: relative;
+  top: 70px;
+  left: 70px;
+  font-style: italic;
+  padding: 10px;
+}
+.submain{
+  background-color: aliceblue;
+  height: 100%;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#one, #two, #three{
+  width: 100px;
+  margin-bottom: 0%;
+  padding: 10px;
+  margin: 10px;
+}
+.one{
+  background-color: rgba(98, 211, 211, 0.457);
+  position: absolute;
+  left: 67%;
+  width: 32%;
+  height: 70%;
+  text-align: center;
+  padding-top: 10px;
+}
+.two{
+  background-color: aliceblue;
+  position: absolute;
+  width: 32%;
+  left: 34%;
+  height: 70%;
+  text-align: center;
+  padding-top: 10px;
+}
+.three{
+  background-color: rgba(98, 211, 211, 0.457);
+  position: absolute;
+  width: 32%;
+  height:70%;
+  left: 1%;
+  text-align: center;
+  padding-top: 10px;
+}
+p{
+  padding: 20px;
+  font-size: larger;
+}
+
+
+
+
+
+
