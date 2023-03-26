@@ -1,4 +1,4 @@
-Your Name]'s Portfolio Website
+KENTECH's Portfolio Website
 Welcome to my portfolio website! This website showcases my projects and skills as a [your profession/field].
 
 Table of Contents
